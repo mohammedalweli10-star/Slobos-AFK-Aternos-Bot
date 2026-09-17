@@ -1,6 +1,6 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": 5 {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
